@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/chenyuhong/github_works/vue3_nuxt_test/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6b89206b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/chenyuhong/github_works/vue3_nuxt_test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e97e09a0"
+  }
+]
