@@ -1,0 +1,1 @@
+import{u as n}from"./BeyF9qIR.js";import{e as s,c as m,o as a,k as e}from"./C4-ekBSf.js";const _=s({__name:"Btn",setup(u){const o=n();return(c,t)=>(a(),m("button",{onClick:t[0]||(t[0]=(...r)=>e(o).subtractNum&&e(o).subtractNum(...r)),class:"bg-amber-200 border rounded px-2 py-1 ml-4"}," box btn "))}});export{_};

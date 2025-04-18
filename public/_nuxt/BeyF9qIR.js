@@ -1,0 +1,1 @@
+import{N as r,y as a,A as s}from"./C4-ekBSf.js";import{u}from"./CmJsyD8u.js";const f=r("home",()=>{const o=u(),e=a(()=>o.voteData),t=s(10);return{num:t,subtractNum:()=>t.value--,voteToHomeData:e}});export{f as u};

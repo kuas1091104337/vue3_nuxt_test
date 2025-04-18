@@ -1,0 +1,1 @@
+import{e as t,i as s,j as n,c as a,t as r,k as c,o as l}from"./C4-ekBSf.js";const f=t({__name:"[id]",setup(u){const e=s(),o=n();return console.log(e),console.log(o),(p,_)=>(l(),a("p",null,r(c(e).fullPath),1))}});export{f as default};

@@ -1,0 +1,1 @@
+import{e as n,g as t}from"./C4-ekBSf.js";const c=n({__name:"apiCORS",setup(o){return t(async()=>{const e=await $fetch("/api/GetLstDicMovie?cinema=1|TP");console.log(e)}),(e,a)=>null}});export{c as default};

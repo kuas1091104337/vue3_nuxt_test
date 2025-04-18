@@ -1,0 +1,1 @@
+import{e as o,i as s,c as n,o as t}from"./C4-ekBSf.js";const c={class:""},p=o({__name:"index",setup(a){const e=s();return console.log(e),console.log(e.fullPath),console.log(e.name),(l,r)=>(t(),n("p",c,"內頁介紹"))}});export{p as default};

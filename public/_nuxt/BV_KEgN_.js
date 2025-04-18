@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as n,b as a,F as c,o as r,h as _}from"./C4-ekBSf.js";const u={};function l(m,e){const s=_;return r(),t(c,null,[e[0]||(e[0]=n("h1",{class:""},"courses",-1)),a(s)],64)}const p=o(u,[["render",l]]);export{p as default};

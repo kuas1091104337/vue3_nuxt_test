@@ -1,0 +1,1 @@
+import{_}from"./HG32-p4i.js";import{_ as r}from"./3Kbceq7m.js";import{_ as c,c as m,o as s,d as a,b as t}from"./C4-ekBSf.js";import"./BeyF9qIR.js";import"./CmJsyD8u.js";const p={};function f(i,o){const n=_,e=r;return s(),m("div",null,[o[0]||(o[0]=a(" Component: Home ")),t(n),t(e)])}const k=c(p,[["render",f]]);export{k as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,ab as r}from"./C4-ekBSf.js";const s={},c={class:"text-[14px] leading-[30px] w-full bg-[#eee] border border-[#ddd] rounded-full mt-[10px]"};function d(e,_){return n(),o("button",c,[r(e.$slots,"default")])}const l=t(s,[["render",d]]);export{l as default};

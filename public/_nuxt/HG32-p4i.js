@@ -1,0 +1,1 @@
+import{u as t}from"./BeyF9qIR.js";import{e as s,c as r,a as o,t as a,k as m,F as l,o as u}from"./C4-ekBSf.js";const f=s({__name:"index",setup(p){const n=t();return(c,e)=>(u(),r(l,null,[e[0]||(e[0]=o("h1",null,"Box",-1)),o("h2",null,a(m(n).num),1)],64))}});export{f as _};

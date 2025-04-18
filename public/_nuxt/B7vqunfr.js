@@ -1,0 +1,1 @@
+import{i as t,c as a,a as o,t as n,k as l,F as r,o as u}from"./C4-ekBSf.js";const _={__name:"[...slug]",setup(p){const e=t();return console.log(e),(c,s)=>(u(),a(r,null,[s[0]||(s[0]=o("h1",null,"404 Not Found",-1)),o("p",null,n(l(e).params.slug),1)],64))}};export{_ as default};

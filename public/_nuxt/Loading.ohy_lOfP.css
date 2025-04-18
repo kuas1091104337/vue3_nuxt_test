@@ -1,0 +1,1 @@
+@keyframes ellipsis{0%{transform:scale3d(0,0,0)}to{transform:scaleX(1)}}@keyframes ellipsis-move{0%{transform:translateZ(0)}to{transform:translate3d(24px,0,0)}}
